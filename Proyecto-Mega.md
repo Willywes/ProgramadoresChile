@@ -16,7 +16,7 @@ Luego se recompensa con acceso a :
 
 
 **1.**Staff de la Comunidad.                                                                                                     
-**2.**Personas Activas que participen en la Comunidad.                                                                            
+**2.**Personas Activas que participen en la Comunidad con almenos 8 Meses de Antiguedad.                                                                            
 **3.**Personas que deseen realizar un Curso para la Comunidad.                                                                     
 **4.**Personas que deseen realizar un Hangout para la Comunidad.                                                                      
 **5.**Personas que Ganen acceso Asistiendo en los Meetups.                                                                            
