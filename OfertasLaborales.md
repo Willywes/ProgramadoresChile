@@ -9,7 +9,7 @@ En Español :
 >**Beneficios**:                                                                                                                
 >**Tipo de Contrato**: ( Fulltime - Partime - Freelance )                                                                       
 >**Remuneración Aproximada**: ( Min - Max - Aprox )                                                                             
->**Correo Electronico**: ( Para Adjuntar CV )                                                                                   
+>**Correo Electrónico**: ( Para Adjuntar CV )                                                                                   
 
 In English : 
 >**Company Name**:                                                                                                      
@@ -19,4 +19,8 @@ In English :
 >**Benefits**:                                                                                                                
 >**Type of Contract**: ( Fulltime - Partime - Freelance )                                                                       
 >**Approximate remuneration**: ( Min - Max - Aprox )                                                                             
->**E-mail**: ( to attach cv )          
+>**E-mail**: ( to attach cv )
+
+Observaciones:
+> * Si la remuneración estimada es acorde a la experiencia, especificar un monto por cada rango de experiencia esperada.
+> * Si las postulaciones se deben hacer por una plataforma web, se puede omitir el campo de Correo Electrónico, especificando en su lugar una url con la oferta laboral.
