@@ -2,11 +2,11 @@
 
 **Normas de Convivencia**
 ----------
-**1.1** Quedan estrictamente prohibido los adjetivos descalificativos entre los usuarios, hacia los administradores de la comunidad y hacia las empresas que patrocinan la comunidad sin ser clientes de dicho servicio.
+**1.1** Quedan estrictamente prohibido los adjetivos descalificativos entre los usuarios, hacia los administradores de la comunidad.
 
 **Procedimiento** 
 
->De ser un Comentario, se procederá a dejarlo al tanto de su falta, si persiste en su comportamiento se procede a eliminar dicho comentario. De persistir el usuario después de ello, se procederá a bloquearlo de la comunidad.
+>De ser un Comentario, se procederá a dejarlo al tanto de su falta, si persiste en su comportamiento se procederá a bloquearlo de la comunidad.
 
 >De ser una Publicación, se procederá directamente a eliminar al miembro y su publicacion.
 
